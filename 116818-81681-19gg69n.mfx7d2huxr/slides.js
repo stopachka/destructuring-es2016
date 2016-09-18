@@ -34,5 +34,4 @@ require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/l
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/05-this/02-this-exercise.js.md"),
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/06-constructors-prototypes/00-prototypes.md"),
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/06-constructors-prototypes/01-constructors.md"),
-require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/06-constructors-prototypes/02-class-syntax.md"),
-require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/07-resources.md")];
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/06-constructors-prototypes/02-class-syntax.md")];
