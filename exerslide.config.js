@@ -29,7 +29,7 @@ module.exports = {
     'font-awesome/css/font-awesome.css',
     'highlight.js/styles/solarized-light.css',
     './css/exerslide.css',
-    './css/jsbasics.css',
+    './css/custom.css',
   ],
 
   /**
