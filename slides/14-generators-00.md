@@ -1,19 +1,16 @@
 ---
-layout: javascriptexercise-layout:javascriptexercise
-layout_data:
-  description: |
-    Write an iterable of all numbers divisible by 10, and print all numbers divisible by ten, smaller then 100
----
-const tens = {
-  [Symbol.iterator]() {
-    return {
-      next() {
-        // TODO
-      }
-    }
+title: Generators
+layout: Center
+style: |
+  .exerslide-slide .Center-wrapper {
+    text-align: left;
   }
-}
+  .exerslide-slide h1 {
+    font-size: 300%;
+  }
+  .exerslide-slide h2 {
+    color: grey;
+  }
+---
 
-for (let num of tens) {
-  // TODO
-}
+## function* evenNumbers() {}

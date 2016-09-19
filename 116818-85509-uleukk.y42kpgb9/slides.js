@@ -90,4 +90,12 @@ require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/l
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-2-c.md"),
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-2-d.md"),
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-2-e.md"),
-require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-00.md")];
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-00.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-01-a.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-01-b.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-01-c.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-01-d.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-01-e.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-02-a.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-TODO-0.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-TODO-1.md")];

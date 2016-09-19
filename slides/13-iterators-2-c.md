@@ -1,7 +1,6 @@
 ---
 ---
 ```javascript
-
 const evenNumbers = {
   [Symbol.iterator]() {
     return {
