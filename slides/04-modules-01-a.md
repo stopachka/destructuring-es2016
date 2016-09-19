@@ -1,17 +1,17 @@
 ---
 ---
-
 ```javascript
-  class AdminUser extends User {
-    static getLevel() {
-      return 5;
-    }
-    constructor(name, friends) {
-      super(name, friends);
-      this.title = name + ' overlord';
-    }
-    deleteUser(id) {
-      return deleteUser(id);
-    }
+  // api.js
+  function deleteUser(id) {
+    ..
+  }
+
+  function addFriend(userId, friendId) {
+    ...
+  }
+  
+  module.exports = {
+    deleteUser: deleteUser,
+    addFriend: addFriend,
   }
 ```
