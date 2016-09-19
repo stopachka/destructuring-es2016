@@ -78,4 +78,16 @@ require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/l
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/11-block-scoping-02-a.md"),
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/11-block-scoping-02-b.md"),
 require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/11-block-scoping-03-a.md"),
-require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/11-block-scoping-03-b.md")];
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/11-block-scoping-03-b.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/12-symbols-00.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/12-symbols-01-a.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/12-symbols-01-b.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/12-symbols-01-c.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-00.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-1-a.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-2-a.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-2-b.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-2-c.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-2-d.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/13-iterators-2-e.md"),
+require("/Users/stopachka/Projects/destructuring-es2016/node_modules/exerslide/lib/slide-loader!../slides/14-generators-00.md")];
