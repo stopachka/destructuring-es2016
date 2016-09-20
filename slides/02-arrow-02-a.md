@@ -1,6 +1,5 @@
 ---
 ---
-
 ```javascript
   function FriendButton() {
     var button = document.getElementById('friend-btn');

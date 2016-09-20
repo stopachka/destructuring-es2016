@@ -1,6 +1,5 @@
 ---
 ---
-
 ```javascript
-  var users = users.map((user) => user.name)
+  var names = users.map((user) => user.name)
 ```
