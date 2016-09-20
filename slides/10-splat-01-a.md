@@ -1,7 +1,7 @@
 ---
 ---
 ```javascript
-function introduce({name}, ...name) {
+function introduce({name}, ...others) {
   others.forEach(({lastName}) => salute(name, lastName));
 }
 ```

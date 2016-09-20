@@ -5,9 +5,8 @@ layout_data:
   description: |
     Create a generator, which given an object, returns an iterator if it's values;
 ---
-
 function* objectValues(obj) {
-  const keys = Object.keys(keys);
+  const keys = Reflect.ownKeys(obj);
   // TODO
 }
 
